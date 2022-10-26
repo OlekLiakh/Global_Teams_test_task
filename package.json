@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^10.10.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
