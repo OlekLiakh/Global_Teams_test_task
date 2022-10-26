@@ -4,7 +4,7 @@ class Page {
     
     constructor() {
         this.navToolBar = new NavToolBar();
-        this.url = "https://demo.vercel.store/product/quarter-zip"
+        this.url = "https://demo.vercel.store/"
     }
     openPage(){
         cy.visit(this.url)

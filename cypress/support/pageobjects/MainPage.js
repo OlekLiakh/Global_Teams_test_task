@@ -4,7 +4,7 @@ class MainPage extends Page{
 
     constructor() {
         super()
-        super.url = "https://demo.vercel.store/product/quarter-zip";
+        super.url = "https://demo.vercel.store/"
     }
 
 }
